@@ -21,20 +21,16 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Leaderboard] <a name="about-project"></a>
+# 📖 [Math-magicians] <a name="about-project"></a>
 
-**[Leaderboard]** The leaderboard website displays scores 
-submitted by different players. 
-It also allows you to submit your score. All data is 
-preserved thanks to the external Leaderboard API service.
-
+**[Calculator]** 
+ - "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
+ - Make simple calculations.
+ -  Read a random math-related quote.
 
 ## Learning objectives <a name="objectives"></a>
+By building this application, you will learn how to use React.
 
-Use callbacks and promises.
-Learn how to use proper ES6 syntax.
-Use ES6 modules to write modular JavaScript.
-Use webpack to bundle JavaScript.
 
 ## 🛠 Built With <a name="built-with"></a>
 - **[REACT.JS]**
@@ -63,7 +59,7 @@ You can have a copy of this repo run on your local machine by just directly clon
 
 To get a local copy up and running follow these simple example steps.
 1. Download the `Zip` or `(git clone)[(https://github.com/KAYEMBAJONATHAN/Math-magicians.git)]`
-2. `cd Leaderboard`
+2. `cd math-magicians`
 3. Then open in your browser by using `live server`
 
 ## Test
@@ -100,11 +96,9 @@ For tracking linter errors locally you need to follow these steps:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+##  Authors <a name="authors"></a>
 
-
-👤 **Joe**
-
+👤 **JONATHAN**
 
 - GitHub: [@kayembajonathan](https://github.com/KAYEMBAJONATHAN)
 - LinkedIn: [@kayembajonathan](https://www.linkedin.com/in/jonathan-kayemba-b56247236/)
