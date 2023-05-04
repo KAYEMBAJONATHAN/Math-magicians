@@ -11,7 +11,6 @@ const Calculator = () => {
 
   const eventHandler = (val) => {
     const Result = calculators(result, val.target.value);
-    // result;
     setResult(Result);
   };
 
