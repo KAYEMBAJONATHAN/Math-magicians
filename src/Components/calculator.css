@@ -42,10 +42,10 @@ input {
   font-size: 45px;
 }
 
-h1 {
+.header {
   margin: 0;
   text-align: right;
-  width: 320px;
+  width: 313px;
   height: 40px;
   font-size: 15px;
   padding-top: 5px;
