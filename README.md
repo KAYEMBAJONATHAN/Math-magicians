@@ -1,53 +1,45 @@
- <a name="readme-top"></a>
+<a name="readme-top"></a>
+
+<div align="center">
+
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-- [📖 Learning objectives](#objectives)
-  - [🛠 Built With](#built-with)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 \[Math magicians\] ](#-math-magicians-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [install](#install)
+    - [Usage](#usage)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Math-magicians] <a name="about-project"></a>
+# 📖 [Math magicians] <a name="about-project"></a>
 
-**[Calculator]** 
- - "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
- - Make simple calculations.
- -  Read a random math-related quote.
-
-## Learning objectives <a name="objectives"></a>
-By building this application, you will learn how to use React.
-
+**[Math magicians]** it is a calculator website with simple UI , but it will be able to perform all math operations.
 
 ## 🛠 Built With <a name="built-with"></a>
-- **[REACT.JS]**
 
-  
+### Tech Stack <a name="tech-stack"></a>
+
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **[Math-magicians]**
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-
+- **[All calculation operators]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -55,55 +47,57 @@ By building this application, you will learn how to use React.
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-You can have a copy of this repo run on your local machine by just directly cloning it.
-
-To get a local copy up and running follow these simple example steps.
-1. Download the `Zip` or `(git clone)[(https://github.com/KAYEMBAJONATHAN/Math-magicians.git)]`
-2. `cd math-magicians`
-3. Then open in your browser by using `live server`
-
-## Test
-
-For tracking linter errors locally you need to follow these steps:
-
-- After cloning the project you need to run this command
-  > npm install
-   `This command will download all the dependencies of the project`
-
-- For tracking the linter errors in HTML file run:
-  > npx hint .
-
-- For tracking the linter errors in CSS file run:
-  > npx stylelint "**/*.{css,scss}"
-
-  - And For tracking the linter errors in JavaScript file run:
-  > npx eslint .
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-- Basic knowledge of JavaScript
+In order to run this project you need:
 
-### Install 
+```sh
+sudo apt install git-all
+or
+npm install
+Node.js
+Visual Studio Code
+Browser
+```
 
-> In order to install this project please go through the following steps:
 
+### Setup
 
-1. - [ ] Run `https://github.com/KAYEMBAJONATHAN/Math-magicians.git`
+Clone this repository to your desired folder:
 
-2. - [ ] Run `npm start`
+```sh
+  cd my-folder
+  git (https://github.com/KAYEMBAJONATHAN/Math-magicians.git)
+```
+
+### install
+
+```sh
+npm install
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+```sh
+cd math-magicians
+npm start
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-##  Authors <a name="authors"></a>
+## 👥 Authors <a name="authors"></a>
 
-👤 **JONATHAN**
+👤 **Kayemba Jonathan**
 
 - GitHub: [@kayembajonathan](https://github.com/KAYEMBAJONATHAN)
-- LinkedIn: [@kayembajonathan](https://www.linkedin.com/in/jonathan-kayemba-b56247236/)
+- LinkedIn: [@kayembajonathan](https://www.linkedin.com/in/jonathan-kayembb56247236/)
 - Twitter: [@JonathanKa97287](@JonathanKa97287)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,6 +105,8 @@ For tracking linter errors locally you need to follow these steps:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
+- [ ] **[Add more pages]**
+- [ ] **[Add more css for styling]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,7 +116,7 @@ For tracking linter errors locally you need to follow these steps:
 
 Contributions, issues, and feature requests are welcome!
 
-
+Feel free to check the [issues page](https://github.com/KAYEMBAJONATHAN/Math-magicians.git/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,7 +124,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## ⭐️ Show your support <a name="support"></a>
 
-Give a ⭐️ if you like this project!
+If you like this project show some love by commenting
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -136,10 +132,10 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-
+I would like to thank Microverse staff for their support
+I would like to thank All the Reviwer for their hard work
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- LICENSE -->
 
