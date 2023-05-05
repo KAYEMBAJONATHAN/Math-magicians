@@ -1,7 +1,6 @@
 import './calculator.css';
 import { useState } from 'react';
 import calculators from '../Logic/calculators';
-import Quote from './Quote';
 
 const Calculator = () => {
   const [result, setResult] = useState({
@@ -18,7 +17,6 @@ const Calculator = () => {
   const displayValue = result.next || result.total || '0';
   return (
     <div className="main-calculator">
-      <Quote />
       <div className="row">
         <input className="header" type="number" value={displayValue} />
         <section className="calculator-wrapper">
@@ -49,4 +47,5 @@ const Calculator = () => {
     </div>
   );
 };
+
 export default Calculator;
