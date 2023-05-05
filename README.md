@@ -116,7 +116,7 @@ npm start
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/KAYEMBAJONATHAN/Math-magicians.git/issues).
+Feel free to check the [issues page](https://github.com/KAYEMBAJONATHAN/Math-magicians/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
