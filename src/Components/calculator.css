@@ -52,3 +52,13 @@ input {
   padding-bottom: 5px;
   background-color: #858694;
 }
+
+.quote-container,
+.Data-container,
+.Header-container {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 0 0 3vw;
+}
