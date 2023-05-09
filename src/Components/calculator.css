@@ -5,6 +5,7 @@
   justify-content: space-around;
   align-items: center;
   padding: 20px;
+  margin-top: 30px;
 }
 
 .row {
@@ -57,11 +58,14 @@ input {
 .quote-container,
 .Data-container,
 .Header-container {
-  width: 100%;
+  width: 60%;
   display: flex;
   align-items: center;
   justify-content: center;
   margin: 0 0 0 3vw;
+  padding: 15%;
+  padding-right: 2%;
+  font-size: x-large;
 }
 
 .navigation {
@@ -69,8 +73,7 @@ input {
   justify-content: space-between;
   align-items: center;
   padding: 1rem;
-  background-color: #333;
-  color: #fff;
+  border: 3px solid #000;
 }
 
 .navbar {
@@ -81,7 +84,7 @@ input {
   display: flex;
   justify-content: space-between;
   min-width: 20%;
-  list-style-type: none;
+  list-style-type: none;  
 }
 
 .list_item {
@@ -96,10 +99,20 @@ input {
 p {
   font-weight: 900;
   font-size: 20px;
-  color: black;
+  color: #000;
   margin: 0 10px;
 }
 
 h4 {
   justify-content: start;
+}
+
+.head {
+  color: #000;
+  margin-left: 40%;
+  font-size: x-large;
+}
+
+a {
+  text-decoration: none;
 }

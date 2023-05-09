@@ -4,7 +4,7 @@ const text = 'In this project, I will create a full website for the Math magicia
 
 const Home = () => (
   <div className="nav">
-    <h4>Welcome Website</h4>
+    <h4 className="head">Welcome to our Website</h4>
     <p>{text}</p>
   </div>
 );
