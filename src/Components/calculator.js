@@ -9,6 +9,8 @@ const Calculator = () => {
     operation: null,
   });
 
+  const title = 'Let`s do some Math';
+
   const eventHandler = (val) => {
     const Result = calculators(result, val.target.value);
     setResult(Result);
@@ -17,6 +19,7 @@ const Calculator = () => {
   const displayValue = result.next || result.total || '0';
   return (
     <div className="main-calculator">
+      <h3>{title}</h3>
       <div className="row">
         <input className="header" type="number" value={displayValue} />
         <section className="calculator-wrapper">
