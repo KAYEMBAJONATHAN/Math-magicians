@@ -81,10 +81,9 @@ input {
   list-style: none;
   margin: 0;
   padding: 0;
-  display: flex;
   justify-content: space-between;
   min-width: 20%;
-  list-style-type: none;  
+  list-style-type: none;
 }
 
 .list_item {
