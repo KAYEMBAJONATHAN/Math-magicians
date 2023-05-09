@@ -1,6 +1,6 @@
 import React from 'react';
 
-const text = 'In this project, I will create a full website for the Math magicians app, consisting of several pages,';
+const text = 'A calculator is a device or software application that performs arithmetic operations on numbers. It typically includes basic operations like addition, subtraction, multiplication, and division. More advanced calculators can also handle operations like square roots, percentages, exponentiation, logarithms, and trigonometric functions.';
 
 const Home = () => (
   <div className="nav">

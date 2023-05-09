@@ -1,7 +1,12 @@
+body {
+  margin: 0;
+  border: 2px solid #000;
+}
+
 .main-calculator {
   display: flex;
   flex-direction: row;
-  width: 100%;
+  width: 90%;
   justify-content: space-around;
   align-items: center;
   padding: 20px;
@@ -14,6 +19,9 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  border: 2px solid #000;
+  width: 30%;
+  padding: 20px;
 }
 
 .calculator-wrapper {
@@ -73,7 +81,6 @@ input {
   justify-content: space-between;
   align-items: center;
   padding: 1rem;
-  border: 3px solid #000;
 }
 
 .navbar {
@@ -112,6 +119,10 @@ h4 {
   font-size: x-large;
 }
 
-a {
-  text-decoration: none;
+h3 {
+  align-items: start;
+  justify-content: right;
+  margin: -23%;
+  padding-bottom: 25%;
+  font-size: x-large;
 }
